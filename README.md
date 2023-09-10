@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandeepdeepala
-- 👀 I’m interested in ...middleware 
-- 🌱 I’m currently learning ...dell boomi and mule
+- 👀 I’m interested in integration technologies
+- 🌱 I’m currently learning dellBoomi
 - 💞️ I’m looking to collaborate on ...webmethods
 - 📫 How to reach me ...sandeepdeepala@gmail.com
 
